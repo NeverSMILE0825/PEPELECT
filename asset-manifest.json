@@ -1,0 +1,420 @@
+[
+  {
+    "id": 1,
+    "name": "hero-golden-polling-station",
+    "file": "assets/01-hero-golden-polling-station.webp",
+    "source": "a_highly_detailed_cinematic_oil_painting_style_wi.png",
+    "size": [
+      1774,
+      887
+    ],
+    "provisional": false
+  },
+  {
+    "id": 2,
+    "name": "hero-pepe-transparent",
+    "file": "assets/02-hero-pepe-transparent.webp",
+    "source": "a_high_detail_transparent_background_cutout_illus.png",
+    "size": [
+      1312,
+      1199
+    ],
+    "provisional": false
+  },
+  {
+    "id": 3,
+    "name": "story-parchment-panel",
+    "file": "assets/03-story-parchment-panel.webp",
+    "source": "a_wide_high_detail_vintage_torn_parchment_story.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 4,
+    "name": "election-journey-heading",
+    "file": "assets/04-election-journey-heading.webp",
+    "source": "a_wide_horizontal_vintage_parchment_banner_on_a_t.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 5,
+    "name": "chapter-01-election-day",
+    "file": "assets/05-chapter-01-election-day.webp",
+    "source": "a_highly_detailed_cinematic_oil_painting_style_wi.png",
+    "size": [
+      1774,
+      887
+    ],
+    "provisional": true
+  },
+  {
+    "id": 6,
+    "name": "chapter-02-the-ballot",
+    "file": "assets/06-chapter-02-the-ballot.webp",
+    "source": "a_detailed_oil_painting_style_scene_rich_texture.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": true
+  },
+  {
+    "id": 7,
+    "name": "chapter-03-the-count",
+    "file": "assets/07-chapter-03-the-count.webp",
+    "source": "a_highly_detailed_cinematic_oil_painting_style_s.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 8,
+    "name": "chapter-04-election-night",
+    "file": "assets/08-chapter-04-election-night.webp",
+    "source": "a_cinematic_highly_detailed_oil_painted_illustrat.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 9,
+    "name": "chapter-05-the-results",
+    "file": "assets/09-chapter-05-the-results.webp",
+    "source": "a_highly_detailed_cinematic_oil_painting_style_i.png",
+    "size": [
+      1672,
+      941
+    ],
+    "provisional": true
+  },
+  {
+    "id": 10,
+    "name": "election-night-panorama",
+    "file": "assets/10-election-night-panorama.webp",
+    "source": "a_detailed_cinematic_highly_detailed_painted_ill.png",
+    "size": [
+      1920,
+      819
+    ],
+    "provisional": false
+  },
+  {
+    "id": 11,
+    "name": "tokenomics-eth-crest",
+    "file": "assets/11-tokenomics-eth-crest.webp",
+    "source": "a_detailed_ornate_oil_painting_style_illustration.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 12,
+    "name": "get-eth",
+    "file": "assets/12-get-eth.webp",
+    "source": "a_richly_detailed_oil_painting_textured_impasto.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 13,
+    "name": "uniswap-unicorn",
+    "file": "assets/13-uniswap-unicorn.webp",
+    "source": "a_richly_detailed_oil_painting_style_fantasy_illu.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 14,
+    "name": "swap-pepe-coin",
+    "file": "assets/14-swap-pepe-coin.webp",
+    "source": "a_highly_detailed_painterly_oil_painting_style_ci.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "provisional": true
+  },
+  {
+    "id": 15,
+    "name": "gallery-uncle-pepe",
+    "file": "assets/15-gallery-uncle-pepe.webp",
+    "source": "a_detailed_oil_painting_highly_textured_and_dram.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 16,
+    "name": "gallery-newspaper",
+    "file": "assets/16-gallery-newspaper.webp",
+    "source": "a_detailed_cinematic_oil_painting_style_illustrat.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": true
+  },
+  {
+    "id": 17,
+    "name": "gallery-election-watcher",
+    "file": "assets/17-gallery-election-watcher.webp",
+    "source": "a_cinematic_highly_detailed_oil_painting_digita.png",
+    "size": [
+      1672,
+      941
+    ],
+    "provisional": false
+  },
+  {
+    "id": 18,
+    "name": "gallery-asleep",
+    "file": "assets/18-gallery-asleep.webp",
+    "source": "a_richly_detailed_cinematic_oil_painting_style_il.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 19,
+    "name": "gallery-podium",
+    "file": "assets/19-gallery-podium.webp",
+    "source": "a_highly_detailed_cinematic_oil_painting_impast.png",
+    "size": [
+      1672,
+      941
+    ],
+    "provisional": true
+  },
+  {
+    "id": 20,
+    "name": "gallery-celebration",
+    "file": "assets/20-gallery-celebration.webp",
+    "source": "a_highly_detailed_colorful_oil_painting_style_sce.png",
+    "size": [
+      1672,
+      941
+    ],
+    "provisional": false
+  },
+  {
+    "id": 21,
+    "name": "community-footer-panorama",
+    "file": "assets/21-community-footer-panorama.webp",
+    "source": "a_wide_cinematic_highly_detailed_oil_painting_st.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 22,
+    "name": "archive-story",
+    "file": "assets/22-archive-story.webp",
+    "source": "a_richly_detailed_cinematic_oil_painting_style_i.png",
+    "size": [
+      1672,
+      941
+    ],
+    "provisional": false
+  },
+  {
+    "id": 23,
+    "name": "divider-hero-story",
+    "file": "assets/23-divider-hero-story.webp",
+    "source": "a_high_detail_cinematic_textured_illustration_of.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 24,
+    "name": "divider-story-journey",
+    "file": "assets/24-divider-story-journey.webp",
+    "source": "a_wide_horizontal_decorative_torn_parchment_divid.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 25,
+    "name": "divider-journey-night",
+    "file": "assets/25-divider-journey-night.webp",
+    "source": "a_wide_horizontal_decorative_banner_torn_parchm.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 26,
+    "name": "divider-night-tokenomics",
+    "file": "assets/26-divider-night-tokenomics.webp",
+    "source": "a_high_detail_transparent_png_website_divider_sect.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 27,
+    "name": "divider-tokenomics-gallery",
+    "file": "assets/27-divider-tokenomics-gallery.webp",
+    "source": "a_wide_horizontal_decorative_collage_banner_with_t.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 28,
+    "name": "divider-gallery-footer",
+    "file": "assets/28-divider-gallery-footer.webp",
+    "source": "a_wide_highly_detailed_decorative_banner_section.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 29,
+    "name": "texture-seamless-parchment",
+    "file": "assets/29-texture-seamless-parchment.webp",
+    "source": "pepelection_29_seamless_parchment.png",
+    "size": [
+      1024,
+      1024
+    ],
+    "provisional": false
+  },
+  {
+    "id": 30,
+    "name": "texture-dark-walnut",
+    "file": "assets/30-texture-dark-walnut.webp",
+    "source": "a_high_resolution_detailed_background_texture_of.png",
+    "size": [
+      1671,
+      941
+    ],
+    "provisional": false
+  },
+  {
+    "id": 31,
+    "name": "overlay-autumn-leaves",
+    "file": "assets/31-overlay-autumn-leaves.webp",
+    "source": "a_transparent_png_decorative_overlay_scene_of_autu.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 32,
+    "name": "decor-patriotic-bunting",
+    "file": "assets/32-decor-patriotic-bunting.webp",
+    "source": "a_high_detail_transparent_background_patriotic_am.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 33,
+    "name": "decor-scrapbook",
+    "file": "assets/33-decor-scrapbook.webp",
+    "source": "a_high_detail_transparent_png_collage_sticker_sh.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 34,
+    "name": "decor-ink-stamps",
+    "file": "assets/34-decor-ink-stamps.webp",
+    "source": "a_high_resolution_png_sticker_asset_sheet_on_trans.png",
+    "size": [
+      1650,
+      550
+    ],
+    "provisional": false
+  },
+  {
+    "id": 35,
+    "name": "mobile-hero",
+    "file": "assets/35-mobile-hero.webp",
+    "source": "a_highly_detailed_cinematic_photorealistic_illus.png",
+    "size": [
+      941,
+      1672
+    ],
+    "provisional": true
+  },
+  {
+    "id": 36,
+    "name": "mobile-election-night",
+    "file": "assets/36-mobile-election-night.webp",
+    "source": "a_highly_detailed_cinematic_richly_textured_digi.png",
+    "size": [
+      941,
+      1672
+    ],
+    "provisional": false
+  },
+  {
+    "id": 37,
+    "name": "mobile-election-journey",
+    "file": "assets/37-mobile-election-journey.webp",
+    "source": "a_highly_detailed_cinematic_painterly_digital_il.png",
+    "size": [
+      941,
+      1672
+    ],
+    "provisional": false
+  },
+  {
+    "id": 38,
+    "name": "mobile-footer",
+    "file": "assets/38-mobile-footer.webp",
+    "source": "a_highly_detailed_cinematic_illustrated_poster_l.png",
+    "size": [
+      941,
+      1672
+    ],
+    "provisional": false
+  }
+]
